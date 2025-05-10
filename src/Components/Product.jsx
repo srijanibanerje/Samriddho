@@ -115,6 +115,7 @@ const Product = () => {
                                                                
                                                                 <a href="#" className="btn add-to-cart-btn"><i className="fa fa-cart-arrow-down" aria-hidden="true"></i>add to cart</a>
                                                               
+                                                              
                                                             </div>
                                                         </div>
                                                     </div>
